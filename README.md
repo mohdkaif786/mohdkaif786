@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohd-kaif-90095b210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-kaif-90095b210" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alphasid11196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alphasid11196" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/alphasid11196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="alphasid11196" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/alphasid11196?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="alphasid11196" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
